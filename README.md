@@ -13,5 +13,8 @@ Enfin, nous proposons une modélisation économétrique au niveau départemental
 
 ## Etude des données au niveau départemental
 
+Champ : France entière sauf Mayotte car certaines données ne sont pas disponibles pour Mayotte (popleg millésime 2018)
+
+![schema](./sources.drawio.png)
 
 ## Etude des données au niveau communal

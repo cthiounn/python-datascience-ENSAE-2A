@@ -6,7 +6,12 @@ En mai 2021, le ministre de l'Intérieur déclarait faire davantage confiance au
 Premièrement, nous présentons des statistiques descriptives avec une cartographie représentant le nombre de boucheries par habitant au niveau communal puis départemental. Nous cartographions également le nombre d'actes de délinquance par habitant et par département. Les statistiques présentées porteront sur le millénisme 2018 dans la mesure où les dernières populations légales datent de 2018. 
 Nous proposons ensuite une approche dynamique afin d'étudier l'évolution des crimes et délits dans le temps XXX. 
 
-Afin d'observer une granularité plus fine, nous géolocalisons par la suite les commissariats des différents départements en appliquant une distribution aléatoire des crimes et délits rapportés dans un rayon de X kilomètre. Cela nous permet d'étudier la corrélation entre la présence de boucheries charcuteries et la délinquance à un niveau communal. 
+Pour continuer l'analyse à un niveau plus fin, nous géolocalisons par la suite les commissariats des différents départements en appliquant une distribution aléatoire des crimes et délits rapportés dans un rayon de X kilomètre. Cela nous permet d'étudier la corrélation entre la présence de boucheries charcuteries et la délinquance à un niveau communal. 
 
 Enfin, nous proposons une modélisation économétrique au niveau départemental et communal de la corrélation entre délinquance et présence de boucheries-charcuteries. XXX
 
+
+## Etude des données au niveau départemental
+
+
+## Etude des données au niveau communal

@@ -130,3 +130,6 @@ dmypy.json
 
 # custom
 */*.zip
+*.zip
+*/*.html
+*.html

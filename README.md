@@ -29,7 +29,7 @@ Le notebook principal est main.ipynb et appelle les autres carnets avec la comma
 
 ## Etude des données au niveau départemental
 
-Champ : France métroplitaine car les données des DOM ne sont pas toujours disponibles
+Champ : France métropolitaine car les données des DOM ne sont pas toujours disponibles
 
 ![schema](./sources.drawio.png)
 

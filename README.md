@@ -11,9 +11,12 @@ En mai 2021, le ministre de l'Intérieur déclarait faire davantage confiance au
 
 ***Méthodologie :***
 
-1- Collecte de données
-2- Analyse descriptive
-3- Modélisation
+1. Collecte de données
+
+2. Analyse descriptive
+
+3. Modélisation
+
 
 **Collecte de données :** Dans un premier temps, nous collectons les différentes sources utiles à l'étude. Pour cela, nous utilisons principalement des données en OpenData du système statistique public français. Pour la plupart des données socio-économiques, l'Insee produit et diffuse ces données. Les statistiques présentées porteront sur le millésime 2018 dans la mesure où les dernières populations légales datent de 2018 (date du début du projet). 
 
@@ -23,7 +26,7 @@ En mai 2021, le ministre de l'Intérieur déclarait faire davantage confiance au
 
 ## Fonctionnement
 
-Le notebook principal est main.ipynb et appelle les autres carnets avec la commande %run. Ces derniers peuvent être lancés séparément mais dans l'ordre chronologique, pour plus de détails avec le paramètre VERBOSE.
+Le notebook principal est [main.ipynb](https://github.com/cthiounn/python-datascience-ENSAE-2A/blob/main/main.ipynb) et appelle les autres carnets avec la commande %run. Ces derniers peuvent être lancés séparément mais dans l'ordre chronologique, pour plus de détails avec le paramètre VERBOSE.
 
 
 
@@ -37,4 +40,6 @@ Résultats : Disponibles dans le notebook principal (main.ipynb). Le 4ème résu
 
 ## Etude des données au niveau communal
 
-Seule la partie récupération des données et transformations (appariement et géolocalisation) a été faite compte tenu du temps imparti.
+Seule la partie récupération des données et transformations (appariement et géolocalisation) a été faite compte tenu du temps imparti. La ventilation sur l'ensemble des communes n'a pas été faite.
+
+Pour pouvoir lancer cette partie, il est nécessaire de disposer d'un jeton de l'[API INSEE]((https://api.insee.fr/)) 
